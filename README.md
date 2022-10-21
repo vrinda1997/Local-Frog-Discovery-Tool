@@ -11,6 +11,12 @@ Frogs are poorly served by existing species distribution models. They have very 
 As indicators of ecological health and proxies for biological diversity, the disappearance of frogs is of great concern. Where frogs occur, we see healthy, thriving, resilient ecosystems. Where frogs have disappeared, we see ecosystems in poor health. All the 2030 Sustainable Development Goals (SDGs) are underpinned by healthy ecosystems. This means we won’t reach our goals if we don’t prevent and reverse the loss of healthy ecosystems.
 
 ____________________________________
+
+OBJECTIVE 
+
+Build a Species Distribution Model for the frog species - "Litoria Fallax" across Australia using TerraClimate variables
+__________________
+
 DATASET USED 
 
 For Target variable - Frog occurrence datasets (Australia)
