@@ -3,7 +3,8 @@ ________
 
 This project is to predict the occurrence of a single species of frog called 'Litoria Fallax' in Autralia using a single data source at a coarse spatial resolution.
 The output will be a species distribution model of one species of frog. Species distribution models are one of the most widely used ecological tools, a cornerstone in many countries worldwide of environmental regulation and conservation.
-#Why frogs? 
+
+Why frogs? 
 Frogs are an indicator species. This means they are a go-to for scientists wanting to find out more about the environmental health of a particular ecosystem.
 Because they have permeable skin, frogs are very sensitive to pollutants, and because they can live on both land and in the water, they are a good indicator of the health of these two different environments.
 Frogs are poorly served by existing species distribution models. They have very localized distributions, more restricted than suggested by a potentially suitable habitat, and therefore existing models struggle to represent their range accurately.
